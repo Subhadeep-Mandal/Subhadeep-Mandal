@@ -23,9 +23,19 @@
 <hr style="border: 0px solid #000;">
 
 # 🌐 Socials:
-<a href="https://www.linkedin.com/in/subhadeep-mandal-a0a7b7315/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 150px; height: auto; padding: 5px;"></a>
-<a href="https://leetcode.com/u/SUBHADEEP_MANDAL/" target="blank"> <img  src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="SUBHADEEP_MANDAL" style=" width:158px;" /></a>
-<a href="https://www.instagram.com/ig_subho_xd/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="width: 169px; height: auto;"> </a>
+<!-- Social Links -->
+<div style="display: flex; gap: 15px; align-items: center;">
+  <a href="https://www.linkedin.com/in/subhadeep-mandal-a0a7b7315/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 160px; height: 40px; border-radius: 50%;">
+  </a>
+  <a href="https://leetcode.com/u/SUBHADEEP_MANDAL/" target="_blank">
+    <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png" alt="LeetCode" style="width: 160px; height: 40px; border-radius: 50%;">
+  </a>
+  <a href="https://www.instagram.com/ig_subho_xd/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="width: 160px; height: 40px; border-radius: 50%;">
+  </a>
+</div>
+
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprashar01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
