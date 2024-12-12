@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/15857bd385b12298e036391e6b9644e481eb0903f46311126cb5f571df2b3686/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966">
 
-<h3>🔧MY DEV TOOLS STACK - #ARSENAL🔧</h3>
+<h3>🔧MY DEV TOOLS STACK- #ARSENAL🔧</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,react,django,anaconda,tensorflow,vscode,git,nodejs,ps&perline=7)](https://skillicons.dev)
 
