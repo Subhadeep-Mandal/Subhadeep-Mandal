@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/Subhadeep-Mandal/Subhadeep-Mandal/output/snake.svg" alt="Snake animation" />
+
+###
 ## Hi there 👋
 
 <!--
