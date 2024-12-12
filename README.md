@@ -43,4 +43,4 @@
 ### ✍️ Random Dev Quote
 <img align="centre" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast" alt="Random Dev Quote" style="width: auto;"/>
 
-
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/Subhadeep-Mandal/Subhadeep-Mandal/output/github-contribution-grid-snake.svg" />
