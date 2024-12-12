@@ -1,25 +1,22 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">👋 Hi There Code Hunters. I'm Subhadeep Mandal😎 </h1>
 
-<h3 align="center">🚀Welcome To My Profile. Here, You'll Find A Blend of My Passions, Experiences, and Insights. I'm Excited To Share And Engage My Ideas. Feel Free To Explore And Dive Into The Depth of Coding"🔥</h3>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1500&color=00FFC1&background=FF000004&multiline=true&width=1000&height=60&lines=%F0%9F%9A%80Welcome+To+My+Profile.+Here%2C+You'll+Find+A+Blend+of+My+Passions%2C+Experiences%2C+and+Insights.;I'm+Very+Excited+To+Share+My+Ideas.+Feel+Free+To+Explore+And+Dive+Into+The+Depth+of+Coding%F0%9F%94%A5)](https://git.io/typing-svg)
 <hr style="border: 0px solid #000;">
 
-
 <img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/15857bd385b12298e036391e6b9644e481eb0903f46311126cb5f571df2b3686/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966">
-<br>
+
+<h3>🔧MY DEV TOOLS STACK - # ARSENAL🔧</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,react,django,anaconda,tensorflow,vscode,git,nodejs,ps&perline=7)](https://skillicons.dev)
+
 <p>
-  <h3>
-  🔧 I’m constantly exploring new tools and<br>
-  frameworks to stay up-to-date with the latest<br>
-  trends in web development.<br><br>
+  I’m constantly exploring new tools and frameworks to stay<br>
+  up-to-date with the latest trends in web development.<br>
   
-  Whether it’s building responsive websites,<br>
-  e-commerce platforms, or web applications,<br>
-  I’m always up for the challenge.
-</h3>
+  Whether it’s building responsive websites, e-commerce platforms,<br>
+  or web applications. I’m always up for the challenge.
 </p>
-<br>
 <hr style="border: 0px solid #000;">
 
 # 🌐 Socials:
@@ -36,7 +33,6 @@
   </a>
 </div>
 
-
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprashar01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
 
@@ -44,10 +40,7 @@
 🌈 Riding the Flutter wave with Dart and a dash of whimsy! 🎨<br><br>🚀 Cheers to endless loops and bug-free adventures!🔥<br><br>📫 Reach me at subhadeepm608@gmail.com<br><br>⚡ Merge Conflicts 😅 Character Building
 
 
- 
-
-
 ### ✍️ Random Dev Quote
-<img align="centre" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" style="width: 80%;"/>
+<img align="centre" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast" alt="Random Dev Quote" style="width: auto;"/>
 
 
