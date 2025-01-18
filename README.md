@@ -17,7 +17,6 @@
   Whether it’s building responsive websites, e-commerce platforms,<br>
   or web applications. I’m always up for the challenge.
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=innov-auras&label=Profile%20views&color=0e75b6&style=flat" alt="innov-auras" /> </p>
 <hr style="border: 0px solid #000;">
 
 # 🌐 Socials:
@@ -33,15 +32,19 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" style="width: 160px; height: 40px; border-radius: 50%;">
   </a>
 </div>
+<hr style="border: 0px solid #000;">
+<div style="display: flex; flex-direction: column;">
+  
+  # 💫 About Me:
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhadeep-Mandal&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+  🌈 Riding the Flutter wave with Dart and a dash of whimsy! 🎨<br><br>
+  🚀 Cheers to endless loops and bug-free adventures!🔥<br><br>
+  📫 Reach me at subhadeepm608@gmail.com<br><br>
+  ⚡ Merge Conflicts 😅 Character Building
+  
+</div>
 
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityaprashar01&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
--->
+  ### ✍️ Random Dev Quote
+<img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast" alt="Random Dev Quote" style="width: auto;"/>
 
-# 💫 About Me:
-🌈 Riding the Flutter wave with Dart and a dash of whimsy! 🎨<br><br>🚀 Cheers to endless loops and bug-free adventures!🔥<br><br>📫 Reach me at subhadeepm608@gmail.com<br><br>⚡ Merge Conflicts 😅 Character Building
-
-
-### ✍️ Random Dev Quote
-<img align="centre" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast" alt="Random Dev Quote" style="width: auto;"/>
-
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Subhadeep-Mandal&label=Profile%20views&color=0e75b6&style=flat" alt="innov-auras" /> </p>
