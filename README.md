@@ -17,6 +17,7 @@
   Whether it’s building responsive websites, e-commerce platforms,<br>
   or web applications. I’m always up for the challenge.
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=innov-auras&label=Profile%20views&color=0e75b6&style=flat" alt="innov-auras" /> </p>
 <hr style="border: 0px solid #000;">
 
 # 🌐 Socials:
